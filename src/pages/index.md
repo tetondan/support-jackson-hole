@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Support Local Jackson Hole.
-image: /img/mountain-1149897_1920.jpg
+image: /img/mountain-1149897_640.jpg
 heading: Great coffee with a conscience
 subheading: Support our local businesses during this unprecedented time.
 mainpitch:
