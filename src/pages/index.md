@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Support Local Jackson Hole.
 image: /img/mountain-1149897_1920.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Support our local businesses during this unprecedented time.
 mainpitch:
   title: Why Kaldi
   description: >
