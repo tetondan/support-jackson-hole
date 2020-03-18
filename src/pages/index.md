@@ -5,12 +5,22 @@ image: /img/mountain-1149897_1920.jpg
 heading: Great coffee with a conscience
 subheading: Support our local businesses during this unprecedented time.
 mainpitch:
-  title: Why Kaldi
+  title: What's up?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    These are strange unprecedented times we are currently living in. As of this
+    writing, COVID-19 has not hit our community but the economic impacts of
+    self-isolation have begun to. Per CDC recommendations non-essential
+    businesses have been asked to shut their doors and many have been forced to
+    lay off staff. This town knows all about shutting down for a little bit each
+    year, but most expect March to be a final time to make and save some money
+    and hunker down for the offseason. While it may be hard to justify
+    discretionary spending during these uncertain times I believe we can, as a
+    community, support our local businesses so that when they are able to
+    reopen, they are able to and will continue to employ our residents and
+    support our community. If you are able, please help support our local
+    businesses. As well, there are links below that will let you donate directly
+    to the most vulnerable in our community. Thanks for your support and let’s
+    get through this thing together. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
